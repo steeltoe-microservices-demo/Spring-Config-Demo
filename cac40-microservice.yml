@@ -1,1 +1,3 @@
-composition : ["Société générale","Sanofi","LVMH","Safran"]
+Value1: some-val
+Value2: another-val
+composition: ["Société générale","Sanofi","LVMH","Safran"]
