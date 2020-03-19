@@ -1,4 +1,1 @@
-Value1: some-val
-Value2: another-val
-composition: test
-composition1: ["Société générale","Sanofi","LVMH","Safran"]
+composition: "Société générale,Sanofi,LVMH,Safran"
