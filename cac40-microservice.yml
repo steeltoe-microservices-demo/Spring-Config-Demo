@@ -1,10 +1,10 @@
 Composition: "Société générale,Sanofi,LVMH,Safran"
-Foundation:	December 31, 1987
-Operator:	Euronext
-Exchanges:	Euronext Paris
+Foundation: "December 31, 1987"
+Operator: "Euronext"
+Exchanges: "Euronext Paris"
 Constituents_Count:	40
-Type:	Large cap
-Market_cap:	€1.832 trillion (1 January 2020)
-Weighting_method:	Capitalization-weighted
-Related_indices:	"CAC Next 20, CAC Small"
-Website:	www.euronext.com
+Type: "arge cap"
+Market_cap:	"€1.832 trillion (1 January 2020)"
+Weighting_method: "Capitalization-weighted"
+Related_indices: "CAC Next 20, CAC Small"
+Website: "www.euronext.com"
